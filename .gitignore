@@ -1,0 +1,113 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+# Usually these files are written by a python script from a binary file created by PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Selenium WebDriver
+selenium-screenshots/
+
+# AI/ML specific
+*.h5
+*.hdf5
+*.pickle
+*.joblib
+*.npy
+*.npz
+__pycache__/models/
+models/
+checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Local environment overrides
+.local/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and editors
+*.swp
+*~
+
+# Others
+*.bak
+*.tmp
+*.temp
+*.old
+
+# Raports
+reports/
